@@ -29,6 +29,7 @@ namespace TestScheduler.VM
 
         public Xamarin.Forms.Color EventColor { get; set; }
 
+
         //thow exception
         //public System.Drawing.Color EventColor { get; set; }
     }
